@@ -1,6 +1,6 @@
 {
   "name": "@hishprorg/wafflejs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -182,10 +182,10 @@
   },
   "dependencies": {
     "@dramaorg/esse-praesentium-eligendi": "^1.2.5",
-    "@juigorg/sit-nam-neque": "^1.0.6",
-    "@kollorg/dicta-itaque-nemo": "^1.0.6",
-    "@swenkerorg/modi-dolorum-provident": "^2.1.4",
-    "@zitterorg/aspernatur-pariatur-occaecati": "^2.2.3",
+    "@juigorg/sit-nam-neque": "^1.0.7",
+    "@kollorg/dicta-itaque-nemo": "^1.0.7",
+    "@swenkerorg/modi-dolorum-provident": "^2.2.4",
+    "@zitterorg/aspernatur-pariatur-occaecati": "^2.2.4",
     "analsorhost-simple-bs": "^1.0.1",
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
