@@ -1,6 +1,6 @@
 {
   "name": "@hishprorg/wafflejs",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -181,11 +181,11 @@
     "url": "https://github.com/hishprorg/wafflejs/issues"
   },
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^2.2.10",
-    "@juigorg/sit-nam-neque": "^1.0.13",
-    "@kollorg/dicta-itaque-nemo": "^1.1.12",
-    "@swenkerorg/modi-dolorum-provident": "^3.2.9",
-    "@zitterorg/aspernatur-pariatur-occaecati": "^5.2.7",
+    "@dramaorg/esse-praesentium-eligendi": "^2.2.11",
+    "@juigorg/sit-nam-neque": "^1.0.14",
+    "@kollorg/dicta-itaque-nemo": "^1.1.13",
+    "@swenkerorg/modi-dolorum-provident": "^3.2.10",
+    "@zitterorg/aspernatur-pariatur-occaecati": "^5.2.8",
     "analsorhost-simple-bs": "^1.0.1",
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
